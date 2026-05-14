@@ -1,6 +1,6 @@
 # 🔬 Clinical Trials Treatment Effectiveness Analysis
 
-![Dashboard](screenshots/dashboard_preview.png)
+![Dashboard](dashboard_preview.png)
 
 ## 📋 Projektbeschreibung
 
